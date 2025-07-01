@@ -17,7 +17,7 @@ This project builds a machine learning model that predicts the number of "calori
 ## 📁 Files in This Repository
 
 | File | Description |
-|------|-------------|
+
 | Calories_Burnt_Prediction.ipynb | Main notebook with preprocessing, model training, and Gradio app |
 | requirements.txt | Python package dependencies |
 | README.md | Project documentation |
@@ -130,6 +130,4 @@ Gradio
 Google Colab
 
 
----
 
-Would you like a repo name suggestion next?
